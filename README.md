@@ -9,10 +9,10 @@
 <div align="center">
   <h3>✨ Welcome to my Digital Playground ✨</h3>
   <p>
-    <a href="https://tseminghong.vercel.app">
+    <a href="https://darren.qzz.io/">
       <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:darrenintr@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact" />
     </a>
   </p>
