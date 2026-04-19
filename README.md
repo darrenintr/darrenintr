@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1 style="display: inline-block">Hey, I'm @tseminghong!</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 style="display: inline-block">Hey, I'm @darrenintr(orginal: tseminghong)!</h1>
+ <p>Yeah ! This is my second account and my future main account</p>
+ <p>I lost my 2fa to sign in the previous account .</p>
+ <p>So i am here</p>
 </div>
 
 <div align="center">
