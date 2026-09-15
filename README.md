@@ -1,15 +1,26 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave" />
 
 # Hey, I'm Darren
 
-### `@darrenintr` · formerly `@tseminghong`
+### `@darrenintr`
 
-Building things for **Web, Mobile, and whatever catches my curiosity next.**
+Student developer exploring **mobile, web, UI and everything in between.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge\&logo=vercel\&logoColor=white)](https://darren.qzz.io/)
-[![Email](https://img.shields.io/badge/Contact-00E5FF?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:darrenintr@gmail.com)
+<a href="https://darren.qzz.io/">
+  <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:darrenintr@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+</a>
+
+<br/><br/>
+
+<sub>
+formerly
+<a href="https://github.com/tseminghong">@tseminghong</a>
+</sub>
 
 </div>
 
@@ -17,19 +28,20 @@ Building things for **Web, Mobile, and whatever catches my curiosity next.**
 
 ## About Me
 
-I'm a student and developer who enjoys turning ideas into working software.
+I'm a student and developer who likes turning ideas into things I can actually use.
 
-I started by experimenting heavily with AI-assisted development, and I'm now pushing myself toward writing more code by hand, understanding the systems underneath it, and becoming a stronger developer rather than just making things work.
+I started by experimenting heavily with AI-assisted development. Now I'm spending more time understanding the code underneath, writing more of it myself, and learning how to turn prototypes into software that actually feels polished.
 
-Right now, I'm mostly interested in:
+Currently interested in:
 
-* 📱 Building **mobile apps with Flutter**
-* 🌐 Creating **modern web experiences**
-* 🎨 Experimenting with **UI, motion, and interaction design**
-* 🛠️ Improving my understanding of software architecture and development
-* 🧪 Building random projects simply because the idea seems interesting
+* 📱 **Flutter & mobile development**
+* 🌐 **Modern web applications**
+* 🎨 **UI, motion and interaction design**
+* 🧩 **Software architecture**
+* 🐧 **Linux and open-source software**
+* 🧪 Building random things just to see if they can work
 
-> Learn something. Build something. Break something. Understand why. Repeat.
+> **Learn → Build → Break → Understand → Improve**
 
 ---
 
@@ -37,75 +49,117 @@ Right now, I'm mostly interested in:
 
 <div align="center">
 
-### Frameworks
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vue.js-76FF03?style=for-the-badge&logo=vuedotjs&logoColor=black" />
-<img src="https://img.shields.io/badge/Flutter-AA00FF?style=for-the-badge&logo=flutter&logoColor=white" />
-
-### Web
-
-<img src="https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-2962FF?style=for-the-badge&logo=css3&logoColor=white" />
+<img
+src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,vue,js,ts,html,css,tailwind,git,github&theme=dark&perline=12"
+alt="Tech Stack"
+/>
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
+
+<img
+width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darrenintr&theme=github_dark"
+alt="GitHub Profile Summary"
+/>
+
+<br/><br/>
+
+<img
+  width="95%"
+  src="https://raw.githubusercontent.com/darrenintr/darrenintr/output/activity-graph.svg"
+  alt="Recent GitHub Activity"
+/>
+
+</div>
+
+---
+
+## Featured Project
+
+<div align="center">
+
+### 📖 Interactive 3D Portfolio
+
+An experimental book-style portfolio built around motion, depth and interaction.
+
+**GSAP · Tailwind CSS · 3D CSS · Scroll-driven animation**
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenintr&theme=dark&background=121212&border=AA00FF&stroke=FF0080&ring=AA00FF&fire=FF0080&currStreakLabel=00E5FF&currStreakNum=FFEA00&sideLabels=00E5FF&sideNums=FFEA00&dates=FFFFFF" />
-
-</div>
-
----
-
-## Interactive 3D Portfolio
-
-One of my experiments in building something less conventional than a normal portfolio.
-
-It combines **3D CSS, GSAP, Tailwind CSS, scroll-driven animation, and interactive UI** into a book-style experience.
-
-<div align="center">
-
-[![Open Portfolio](https://img.shields.io/badge/OPEN_3D_PORTFOLIO-FF0080?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://tseminghong.github.io/gemini3.0_test)
+<a href="https://tseminghong.github.io/gemini3.0_test">
+  <img
+    src="https://img.shields.io/badge/Open_3D_Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Open 3D Portfolio"
+  />
+</a>
 
 <br/><br/>
 
 <a href="https://tseminghong.github.io/gemini3.0_test">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Explore%20the%203D%20Portfolio&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Explore%20the%203D%20Portfolio&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38"
+    alt="Explore the 3D Portfolio"
+  />
 </a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Scroll+to+flip+through+the+pages;GSAP+%2B+Tailwind+%2B+3D+CSS;Built+for+experimentation" />
-
 </div>
+
+---
+
+## What I'm Exploring
+
+```text
+Prototype
+   ↓
+Understand
+   ↓
+Refactor
+   ↓
+Polish
+   ↓
+Ship
+```
+
+I care about software that doesn't just technically work, but also **feels good to use**.
+
+That usually means paying attention to things like:
+
+* smooth transitions
+* responsive interfaces
+* coherent visual systems
+* clear navigation
+* performance
+* small interaction details
 
 ---
 
 ## Previous Account
 
-My original GitHub account was **[@tseminghong](https://github.com/tseminghong)**.
+My original GitHub account is
+**[@tseminghong](https://github.com/tseminghong)**.
 
-I'm now moving my work and future projects to **[@darrenintr](https://github.com/darrenintr)**.
+Some older projects and contribution history still live there.
 
-Some older projects and contribution history may therefore still live on the previous account.
+Most of my new work is moving to
+**[@darrenintr](https://github.com/darrenintr)**.
 
 ---
 
 <div align="center">
 
-### Build things. Learn why they work. Make the next version better.
+### Build things. Understand them. Make the next version better.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=darrenintr\&style=for-the-badge\&color=FF0080)
+<img
+src="https://komarev.com/ghpvc/?username=darrenintr&style=flat-square&color=FF0080"
+alt="Profile Views"
+/>
 
 </div>
