@@ -54,56 +54,15 @@ Right now, I'm mostly interested in:
 
 ---
 
-## What I'm Working Toward
-
-```text
-Prototype → Understand → Refactor → Polish → Ship
-```
-
-I care about software that doesn't just technically work, but also **feels good to use**.
-
-That means I'm especially interested in the small details:
-
-* smooth transitions
-* responsive interfaces
-* simple navigation
-* coherent visual systems
-* performance
-* thoughtful interaction design
-
----
-
 ## GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=darrenintr&show_icons=true&title_color=FF0080&text_color=00E5FF&icon_color=FFEA00&bg_color=121212&border_color=00E5FF&hide_border=false&count_private=true&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenintr&layout=compact&title_color=76FF03&text_color=FF0080&bg_color=121212&border_color=76FF03&hide_border=false&langs_count=8" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenintr&theme=dark&background=121212&border=AA00FF&stroke=FF0080&ring=AA00FF&fire=FF0080&currStreakLabel=00E5FF&currStreakNum=FFEA00&sideLabels=00E5FF&sideNums=FFEA00&dates=FFFFFF" />
 
 </div>
-
----
-
-## Projects
-
-### 🌅 Sunset
-
-Experiments with creative coding, visuals, and interaction.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-FFEA00?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/tseminghong/sunset)
-
----
-
-### 📚 DSE
-
-Tools and resources related to studying, data, and examinations.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-00E5FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/tseminghong/DSE)
 
 ---
 
