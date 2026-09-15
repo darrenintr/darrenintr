@@ -1,158 +1,152 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1 style="display: inline-block">Hey, I'm @darrenintr(orginal: tseminghong)!</h1>
- <p>Yeah ! This is my second account and my future main account</p>
- <p>I lost my 2fa to sign in the previous account .</p>
- <p>So i am here</p>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+
+# Hey, I'm Darren
+
+### `@darrenintr` · formerly `@tseminghong`
+
+Building things for **Web, Mobile, and whatever catches my curiosity next.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge\&logo=vercel\&logoColor=white)](https://darren.qzz.io/)
+[![Email](https://img.shields.io/badge/Contact-00E5FF?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:darrenintr@gmail.com)
+
 </div>
+
+---
+
+## About Me
+
+I'm a student and developer who enjoys turning ideas into working software.
+
+I started by experimenting heavily with AI-assisted development, and I'm now pushing myself toward writing more code by hand, understanding the systems underneath it, and becoming a stronger developer rather than just making things work.
+
+Right now, I'm mostly interested in:
+
+* 📱 Building **mobile apps with Flutter**
+* 🌐 Creating **modern web experiences**
+* 🎨 Experimenting with **UI, motion, and interaction design**
+* 🛠️ Improving my understanding of software architecture and development
+* 🧪 Building random projects simply because the idea seems interesting
+
+> Learn something. Build something. Break something. Understand why. Repeat.
+
+---
+
+## Tech Stack
 
 <div align="center">
-  <h3>✨ Welcome to my Digital Playground ✨</h3>
-  <p>
-    <a href="https://darren.qzz.io/">
-      <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:darrenintr@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Contact" />
-    </a>
-  </p>
+
+### Frameworks
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vue.js-76FF03?style=for-the-badge&logo=vuedotjs&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-AA00FF?style=for-the-badge&logo=flutter&logoColor=white" />
+
+### Web
+
+<img src="https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-2962FF?style=for-the-badge&logo=css3&logoColor=white" />
+
 </div>
 
-<br />
+---
+
+## What I'm Working Toward
+
+```text
+Prototype → Understand → Refactor → Polish → Ship
+```
+
+I care about software that doesn't just technically work, but also **feels good to use**.
+
+That means I'm especially interested in the small details:
+
+* smooth transitions
+* responsive interfaces
+* simple navigation
+* coherent visual systems
+* performance
+* thoughtful interaction design
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  🚀 <b>Learning & Transitioning to Hand-Written Code</b> <br />
-  🌐 <b>Building colorful things for Web & Mobile</b> <br />
-  ⚡ <b>Always chasing the next dopamine hit of knowledge</b>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=darrenintr&show_icons=true&title_color=FF0080&text_color=00E5FF&icon_color=FFEA00&bg_color=121212&border_color=00E5FF&hide_border=false&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrenintr&layout=compact&title_color=76FF03&text_color=FF0080&bg_color=121212&border_color=76FF03&hide_border=false&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darrenintr&theme=dark&background=121212&border=AA00FF&stroke=FF0080&ring=AA00FF&fire=FF0080&currStreakLabel=00E5FF&currStreakNum=FFEA00&sideLabels=00E5FF&sideNums=FFEA00&dates=FFFFFF" />
+
 </div>
 
-<br />
+---
 
-<h2 align="center">🌈 My Vibrant Tech Stack</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-FF0080?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-76FF03?style=for-the-badge&logo=vuedotjs&logoColor=black" alt="Vue" />
-  <img src="https://img.shields.io/badge/Flutter-AA00FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-FFEA00?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2962FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
+## Projects
 
-<br />
+### 🌅 Sunset
 
-<h2 align="center">📊 High-Score Zone</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tseminghong&show_icons=true&title_color=FF0080&text_color=00E5FF&icon_color=FFEA00&bg_color=121212&border_color=00E5FF&hide_border=false&count_private=true&include_all_commits=true" alt="tseminghong's Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tseminghong&layout=compact&title_color=76FF03&text_color=FF0080&bg_color=121212&border_color=76FF03&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
-</div>
+Experiments with creative coding, visuals, and interaction.
 
-<br />
+[![View Repository](https://img.shields.io/badge/View_Repository-FFEA00?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/tseminghong/sunset)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tseminghong&theme=dark&background=121212&border=AA00FF&stroke=FF0080&ring=AA00FF&fire=FF0080&currStreakLabel=00E5FF&currStreakNum=FFEA00&sideLabels=00E5FF&sideNums=FFEA00&dates=FFFFFF" alt="Streak Stats" />
-</div>
+---
 
-<br />
+### 📚 DSE
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tseminghong&theme=flat&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
-</div>
+Tools and resources related to studying, data, and examinations.
 
-<br />
+[![View Repository](https://img.shields.io/badge/View_Repository-00E5FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/tseminghong/DSE)
 
-<h2 align="center">📂 Passion Projects</h2>
+---
 
-<div align="center"> 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🌅 Sunset</h3>
-      <p><i>Explorations in Creative Coding</i></p>
-      <a href="https://github.com/tseminghong/sunset">
-        <img src="https://img.shields.io/badge/View_Code-FFEA00?style=flat-square&logo=github&logoColor=black" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📊 DSE</h3>
-      <p><i>Data, Studies, & Examinations</i></p>
-      <a href="https://github.com/tseminghong/DSE">
-        <img src="https://img.shields.io/badge/View_Code-00E5FF?style=flat-square&logo=github&logoColor=black" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+## Interactive 3D Portfolio
 
-<br />
+One of my experiments in building something less conventional than a normal portfolio.
 
-<br />
-
-<h2 align="center">🎨 Interactive 3D Portfolio</h2>
+It combines **3D CSS, GSAP, Tailwind CSS, scroll-driven animation, and interactive UI** into a book-style experience.
 
 <div align="center">
-  <a href="https://tseminghong.github.io/gemini3.0_test">
-    <img src="https://img.shields.io/badge/🌟_View_Live_Portfolio-FF0080?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
-  </a>
-  <p><i>Experience my interactive 3D book portfolio with scroll-triggered animations!</i></p>
+
+[![Open Portfolio](https://img.shields.io/badge/OPEN_3D_PORTFOLIO-FF0080?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://tseminghong.github.io/gemini3.0_test)
+
+<br/><br/>
+
+<a href="https://tseminghong.github.io/gemini3.0_test">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Explore%20the%203D%20Portfolio&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Scroll+to+flip+through+the+pages;GSAP+%2B+Tailwind+%2B+3D+CSS;Built+for+experimentation" />
+
 </div>
 
-<div align="center">
-  <a href="https://tseminghong.github.io/gemini3.0_test">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Click%20to%20View%20Live%20Demo&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38">
-      <img alt="Portfolio Demo" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=120&section=header&text=Click%20to%20View%20Live%20Demo&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=38">
-    </picture>
-  </a>
-</div>
+---
+
+## Previous Account
+
+My original GitHub account was **[@tseminghong](https://github.com/tseminghong)**.
+
+I'm now moving my work and future projects to **[@darrenintr](https://github.com/darrenintr)**.
+
+Some older projects and contribution history may therefore still live on the previous account.
+
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://tseminghong.github.io/gemini3.0_test">
-          <img src="https://img.icons8.com/fluency/96/000000/book.png" width="80"/>
-          <br/>
-          <b>3D Book Cover</b>
-          <br/>
-          <sub>Interactive opening animation</sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://tseminghong.github.io/gemini3.0_test">
-          <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
-          <br/>
-          <b>Tech Stack Cards</b>
-          <br/>
-          <sub>Clickable info panels</sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://tseminghong.github.io/gemini3.0_test">
-          <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
-          <br/>
-          <b>Project Gallery</b>
-          <br/>
-          <sub>Polaroid-style showcase</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <br/>
-  <kbd><a href="https://tseminghong.github.io/gemini3.0_test"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%96%B1%EF%B8%8F+Scroll+to+flip+pages;%E2%9C%A8+GSAP+%2B+Tailwind+%2B+3D+CSS;%F0%9F%9A%80+Click+here+for+full+experience!" alt="Typing SVG" /></a></kbd>
-  <br/><br/>
-  <sub>✨ Built with GSAP, Tailwind CSS & Creative Coding ✨</sub>
-</div>
+### Build things. Learn why they work. Make the next version better.
 
-<br />
+<br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #FF0080;" />
-  <br/><br/>
-  <p><i>Thanks for dropping by! Don't forget to hit that ⭐️ button!</i></p>
+![Profile Views](https://komarev.com/ghpvc/?username=darrenintr\&style=for-the-badge\&color=FF0080)
+
 </div>
